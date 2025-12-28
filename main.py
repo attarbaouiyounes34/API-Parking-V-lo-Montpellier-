@@ -59,4 +59,5 @@ if __name__ == "__main__":
         sauvegarder_csv(data_p, data_v)
         print("Succès : Données ajoutées au CSV.")
     else:
+
         print("Erreur : Impossible de récupérer les données.")
