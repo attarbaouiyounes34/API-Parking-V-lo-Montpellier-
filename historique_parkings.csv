@@ -8747,3 +8747,84 @@ Date;Heure;Type;Nom;Places_Libres;Places_Totales
 2026-01-01;04:01;Velo;Sud De France;3;8
 2026-01-01;04:01;Velo;Comedie Baudin;8;8
 2026-01-01;04:01;Velo;Jean de Beins;7;16
+2026-01-01;05:02;Voiture;Antigone;172;239
+2026-01-01;05:02;Voiture;Comedie;392;664
+2026-01-01;05:02;Voiture;Corum;329;480
+2026-01-01;05:02;Voiture;Europa;490;591
+2026-01-01;05:02;Voiture;Foch;559;620
+2026-01-01;05:02;Voiture;Gambetta;230;452
+2026-01-01;05:02;Voiture;Gare;394;656
+2026-01-01;05:02;Voiture;Triangle;274;434
+2026-01-01;05:02;Voiture;Pitot;403;590
+2026-01-01;05:02;Voiture;Circe;1020;1200
+2026-01-01;05:02;Voiture;Garcia Lorca;387;400
+2026-01-01;05:02;Voiture;Mosson;307;328
+2026-01-01;05:02;Voiture;Sabines;148;285
+2026-01-01;05:02;Voiture;Sablassou;317;379
+2026-01-01;05:02;Voiture;Saint Jean Le Sec;241;285
+2026-01-01;05:02;Voiture;Euromedecine;172;239
+2026-01-01;05:02;Voiture;Occitanie;561;615
+2026-01-01;05:02;Voiture;Vicarello;38;64
+2026-01-01;05:02;Voiture;Gaumont EST;74;109
+2026-01-01;05:02;Voiture;Gaumont OUEST;5;250
+2026-01-01;05:02;Voiture;Charles de Gaulle;171;260
+2026-01-01;05:02;Voiture;Polygone;1013;1911
+2026-01-01;05:02;Voiture;Arc de Triomphe;139;440
+2026-01-01;05:02;Voiture;Gaumont-Circe;199;500
+2026-01-01;05:02;Velo;Rue Jules Ferry - Gare Saint-Roch;10;12
+2026-01-01;05:02;Velo;Comédie;17;20
+2026-01-01;05:02;Velo;Hôtel de Ville;3;16
+2026-01-01;05:02;Velo;Corum;11;12
+2026-01-01;05:02;Velo;Place Albert 1er - St Charles;18;27
+2026-01-01;05:02;Velo;Foch;3;8
+2026-01-01;05:02;Velo;Halles Castellane;12;12
+2026-01-01;05:02;Velo;Observatoire;3;8
+2026-01-01;05:02;Velo;Rondelet;15;16
+2026-01-01;05:02;Velo;Plan Cabanes;8;12
+2026-01-01;05:02;Velo;Boutonnet;0;12
+2026-01-01;05:02;Velo;Emile Combes;7;8
+2026-01-01;05:02;Velo;Beaux-Arts;5;16
+2026-01-01;05:02;Velo;Les Aubes;2;8
+2026-01-01;05:02;Velo;Antigone centre;8;12
+2026-01-01;05:02;Velo;Médiathèque Emile Zola;12;16
+2026-01-01;05:02;Velo;Nombre d Or;15;16
+2026-01-01;05:02;Velo;Louis Blanc;16;16
+2026-01-01;05:02;Velo;Gambetta;5;8
+2026-01-01;05:02;Velo;Port Marianne;0;16
+2026-01-01;05:02;Velo;Les Arceaux;5;8
+2026-01-01;05:02;Velo;Cité Mion;4;8
+2026-01-01;05:02;Velo;Nouveau Saint-Roch;7;8
+2026-01-01;05:02;Velo;Renouvier;6;8
+2026-01-01;05:02;Velo;Odysseum;8;8
+2026-01-01;05:02;Velo;Saint-Denis;8;8
+2026-01-01;05:02;Velo;Richter;11;16
+2026-01-01;05:02;Velo;Charles Flahault;3;8
+2026-01-01;05:02;Velo;Voltaire;1;8
+2026-01-01;05:02;Velo;Prés d Arènes;1;8
+2026-01-01;05:02;Velo;Garcia Lorca;5;8
+2026-01-01;05:02;Velo;Vert Bois;10;16
+2026-01-01;05:02;Velo;Malbosc;6;8
+2026-01-01;05:02;Velo;Occitanie;21;32
+2026-01-01;05:02;Velo;FacdesSciences;11;24
+2026-01-01;05:02;Velo;Fac de Lettres;1;12
+2026-01-01;05:02;Velo;Aiguelongue;5;8
+2026-01-01;05:02;Velo;Jeu de Mail des Abbés;6;8
+2026-01-01;05:02;Velo;Euromédecine;7;8
+2026-01-01;05:02;Velo;Marie Caizergues;0;8
+2026-01-01;05:02;Velo;Sabines;8;8
+2026-01-01;05:02;Velo;Celleneuve;6;8
+2026-01-01;05:02;Velo;Jardin de la Lironde;1;8
+2026-01-01;05:02;Velo;Père Soulas;2;8
+2026-01-01;05:02;Velo;Place Viala;7;8
+2026-01-01;05:02;Velo;Hôtel du Département;8;8
+2026-01-01;05:02;Velo;Tonnelles;6;8
+2026-01-01;05:02;Velo;Parvis Jules Ferry - Gare Saint-Roch;5;8
+2026-01-01;05:02;Velo;Pont de Lattes - Gare Saint-Roch;9;12
+2026-01-01;05:02;Velo;Deux Ponts - Gare Saint-Roch;8;8
+2026-01-01;05:02;Velo;Providence - Ovalie;8;8
+2026-01-01;05:02;Velo;Pérols Etang de l Or;26;68
+2026-01-01;05:02;Velo;Albert 1er - Cathédrale;10;12
+2026-01-01;05:02;Velo;Saint-Guilhem - Courreau;5;8
+2026-01-01;05:02;Velo;Sud De France;3;8
+2026-01-01;05:02;Velo;Comedie Baudin;8;8
+2026-01-01;05:02;Velo;Jean de Beins;7;16
